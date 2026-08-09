@@ -1,0 +1,12 @@
+langchain>=1.0
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-ollama
+langgraph
+chromadb
+redis
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
